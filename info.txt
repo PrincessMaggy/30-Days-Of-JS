@@ -1,2 +1,26 @@
+# TASK 1-
+
+What is variable scope in javascript and how is let different from var? 
 var and let are both used for variable declaration in javascript but the difference between them is that var is function scoped and let is block scoped. 
 It can be said that a variable declared with var is defined throughout the program as compared to let.
+
+
+# TASK 2-
+
+What is the difference between null and undefined?
+null is a special value meaning "no value". 
+null is a special object because typeof null returns 'object'. 
+Undefined means that the variable has not been declared, or has not been given a value.
+
+
+What is NaN in JavaScript? What is the typeof NaN?
+NaN stands for Not a Number  
+The type of NaN is a number.
+The reason for this is, in computing, NaN is actually technically a numeric data type.
+However, it is a numeric data type whose value cannot be represented using actual numbers. 
+So, the name "Not a Number", doesn't mean #that the value is not numeric. 
+It instead means that the value cannot be expressed with numbers.
+
+
+You can declare a variable by typing let name;. What is the value of name?
+The value of name is undefined.
