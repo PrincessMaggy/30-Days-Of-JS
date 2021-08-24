@@ -5,10 +5,8 @@ console.log(quote);
 
 
 
-function numberOf(){
-    let str = 'these biscuits are sweet and lovely' ;
+function numberOf(str){
     let count =  str.split(' ').length;
     console.log(count);
-    
 }
-numberOf();
+numberOf('these biscuits are sweet and lovely');
