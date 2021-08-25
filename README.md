@@ -16,3 +16,10 @@ What is variable scope in javascript and how is let different from var?  </br>
 
 # Weekend Challenge
 * Write a program that takes a string and returns the number of words in the string.</br>
+
+
+#   TASK 3- </br>
+
+1. Improve the weekend challenge to accept input from a user and onclick the word count should show on the screen.
+*goal: for you to work with the DOM and events. 
+2. Read/study and practice with some methods that are applicable to strings in javaScript.
