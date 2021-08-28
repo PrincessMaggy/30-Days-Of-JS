@@ -23,3 +23,8 @@ What is variable scope in javascript and how is let different from var?  </br>
 1. Improve the weekend challenge to accept input from a user and onclick the word count should show on the screen.
 *goal: for you to work with the DOM and events. 
 2. Read/study and practice with some methods that are applicable to strings in javaScript.
+
+
+#   TASK 4- </br>
+
+1. Write a program that accepts any 3 digit number between 000 to 255 and changes the background color of the page to that number equivalent in color.
