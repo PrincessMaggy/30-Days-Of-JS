@@ -1,9 +1,23 @@
+input{
+    padding:0.5em;
+}
+input:hover{
+    border: 3px outset blue;
+}
+
+
+
 button{
     padding: 0.5em;
     font-weight: 700;
     border-radius: 5%;
     border: 2px outset black;
+    margin:1em;
 }
 button:hover{
     border:3px inset blue;
+}
+
+#warning{
+    text-align: center;
 }
